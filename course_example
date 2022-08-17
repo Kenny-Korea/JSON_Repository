@@ -1,0 +1,26 @@
+[
+   {
+      "course_idx":1,
+      "course_nm":"fun writing",
+      "course_type":"writing",
+      "course_pri":55000
+   },
+   {
+      "course_idx":2,
+      "course_nm":"abc painting",
+      "course_type":"painting",
+      "course_pri":45000
+   },
+   {
+      "course_idx":3,
+      "course_nm":"gardening class",
+      "course_type":"gardening",
+      "course_pri":10000
+   },
+   {
+      "course_idx":4,
+      "course_nm":"exciting game",
+      "course_type":"gaming",
+      "course_pri":20000
+   }
+]

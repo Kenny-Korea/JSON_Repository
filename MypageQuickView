@@ -1,0 +1,22 @@
+{
+    "openedCourseCnt": [
+        {
+            "openedcoursecnt": 4
+        }
+    ],
+    "takenCourseCnt": [
+        {
+            "takencoursecnt": 1
+        }
+    ],
+    "likedCourseCnt": [
+        {
+            "likedcoursecnt": 4
+        }
+    ],
+    "takingCourseCnt": [
+        {
+            "takingcoursecnt": 1
+        }
+    ]
+}
